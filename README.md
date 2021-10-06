@@ -10,9 +10,9 @@
 
 This project is being developed with the following technologies:
 
--Javascript
--HTML5
--CSS3
+- Javascript
+- HTML5
+- CSS3
 
 ## 💻 Project
 
