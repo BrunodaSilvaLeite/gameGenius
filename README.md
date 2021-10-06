@@ -21,6 +21,6 @@ The project ***Genius***, is a project made by [Digital Innovation](https://web.
 
 ## :memo: License
 
-This project is under License MIT. See the documentation [LICENSE](LICENSE) for more details.
+This project is under License MIT. See the documentation [LICENSE](license) for more details.
 
 ---
